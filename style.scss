@@ -18,9 +18,12 @@ html {
 }
 
 body {
-	background: $white;
+  background-image: url("http://static3.businessinsider.com/image/55b675ab2acae7c7018ba34e-1200/milky-way-galaxy.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #ffffff;
 }
 
 .container {
